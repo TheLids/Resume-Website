@@ -1,0 +1,38 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightseagreen;
+}
+
+a
+{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.linked
+{
+    width: 250px;
+    height: 250px;
+}
+
+.git
+{
+    width: 250px;
+    height: 150px;
+}
+
+
+#linkedin
+{
+    padding-bottom: 30px;
+}
+
+#git
+{
+    padding-bottom: 20px;
+}
